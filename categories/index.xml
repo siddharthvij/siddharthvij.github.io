@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Siddharth Vij</title>
+    <link>siddharthvij.github.io/categories/</link>
+    <description>Recent content in Categories on Siddharth Vij</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Siddharth Vij</copyright>
+    <atom:link href="siddharthvij.github.io/categories/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
