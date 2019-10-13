@@ -7,7 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Siddharth Vij</copyright>
+<<<<<<< HEAD
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+=======
+    
+	<atom:link href="https://siddharthvij.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+>>>>>>> 45b7a17e93f482af258213789adabe484efc5215
     
   </channel>
 </rss>
