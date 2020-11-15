@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Siddharth Vij</title>
@@ -6,14 +6,6 @@
     <description>Recent content in Categories on Siddharth Vij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Siddharth Vij</copyright>
-<<<<<<< HEAD
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
-=======
-    
-	<atom:link href="https://siddharthvij.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
->>>>>>> 45b7a17e93f482af258213789adabe484efc5215
-    
+    <copyright>&amp;copy; 2020 Siddharth Vij</copyright><atom:link href="https://siddharthvij.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

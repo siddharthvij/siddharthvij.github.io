@@ -1,53 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siddharth Vij</title>
+    <title>Siddharth Vij on Siddharth Vij</title>
     <link>https://siddharthvij.com/</link>
-    <description>Recent content on Siddharth Vij</description>
+    <description>Recent content in Siddharth Vij on Siddharth Vij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Siddharth Vij</copyright>
+    <copyright>&amp;copy; 2020 Siddharth Vij</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://siddharthvij.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://siddharthvij.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://siddharthvij.com/home/about/</guid>
-      <description>Welcome to my website! I am an Assistant Professor of Finance in the Terry College of Business at the University of Georgia. I conduct primarily empirical research in banking and corporate finance.
-I completed a Ph.D. in Finance at the New York University Stern School of Business in May 2018.</description>
-    </item>
-    
-    <item>
-      <title>Working Papers</title>
-      <link>https://siddharthvij.com/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://siddharthvij.com/home/research/</guid>
-      <description>Acquiring Failed Banks [Paper]  Abstract  Banks create value by issuing deposits and making loans, yet little is known about the relative importance of these two functions. I study this question in the setting of failed bank auctions. This allows me to obtain causal estimates by comparing outcomes for the winning bank to those of the second highest bidder. Consistent with a positive value effect from the acquisition, the winning bank experiences a large positive abnormal return upon announcement of the auction result.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://siddharthvij.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://siddharthvij.com/home/teaching/</guid>
-      <description> UGA Terry Corporate Finance Theory (UG) &amp;ndash; Fall 2018 [Syllabus] NYU Stern Corporate Finance (UG) &amp;ndash; Summer 2015 [Syllabus]  Awarded Commendation for Teaching Excellence  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://siddharthvij.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://siddharthvij.com/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
