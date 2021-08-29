@@ -9,5 +9,14 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Homes</title>
+      <link>https://siddharthvij.com/homes/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siddharthvij.com/homes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
